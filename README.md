@@ -1,2 +1,2 @@
-# resume
-Resume of Shahnaz Malik
+# Resume
+Shahnaz Malik
